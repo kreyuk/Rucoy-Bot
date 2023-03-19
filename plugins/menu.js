@@ -8,7 +8,7 @@ let levelling = require('../lib/levelling')
 const menunya = `
 ━━━ *Rucoy-Bot* ━━━
 
- *MENU UTAM*
+ *MENU UTAMA*
  .nick
  .news
  .manusiaterpilih

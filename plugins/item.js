@@ -8,8 +8,6 @@ conn.sendMessage(m.chat, {image : {url: res}, caption: 'Item yang menarik!'}, {q
 }
 handler.command = /^item$/i
 handler.limit = true
-handler.group = true
-
 handler.fail = null
 
 module.exports = handler
